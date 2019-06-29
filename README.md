@@ -1,4 +1,4 @@
-#How to deploy Vexanium BP node<br>
+# How to deploy Vexanium BP node<br>
 Important Notes:<br>
 The minimum server requirements is dual‑core CPU, 4G RAM, 100G hardrive,and the recommended system is 64‑bit ubuntu 18<br>
 Vexanium  mainnet cannot be deployed on the same server as the EOS mainnet, meaning that one server can only deploy one mainnet. This is to preventunusual errors during deployment<br>
